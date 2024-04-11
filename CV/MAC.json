@@ -1,0 +1,666 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Eloi",
+      "surnames": "Navarro",
+      "title": "Senior Mobile Developer at Bynder",
+      "description": "I am a software engineer with 10+ years of experience. Worked in corporate as well as startups and agencies gave me a pretty diverse look on the way we can work depending on the situation and the project at hand. I also have a strong background in UX giving me the tools to ease the gap between technology and design quite naturally.\nI've worked in a variety of environments, but what I like the most is the Lean Startup methodology. \nI have a son and since then my days have never been boring ever again. That's why I value working from home and flexibility above pretty much everything else.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/69e8f5bc-9ce0-40b4-ab2e-42aed2dd5a3b_6644f46f-84e8-4705-a.jpg",
+        "alt": "profile-image"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJUyUYzlrwoxIRXlbdCQyQBGs)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Torredembarra"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Sports",
+        "fact": "I am an [Aikido](https://en.wikipedia.org/wiki/Aikido) practitioner. First time was in 2007 but finally picked it up again in 2022."
+      },
+      {
+        "topic": "Favorite author",
+        "fact": "[Patrick Rothfuss](https://en.wikipedia.org/wiki/Patrick_Rothfuss) and his \"[The Kingkiller Chronicle](https://en.wikipedia.org/wiki/The_Kingkiller_Chronicle)\" saga"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "The Hobbit",
+        "type": "reading",
+        "URL": "https://en.wikipedia.org/wiki/The_Hobbit",
+        "authors": [
+          {
+            "name": "J. R. R.",
+            "surnames": "Tolkien",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "The Name of the Wind",
+        "type": "reading",
+        "URL": "https://en.wikipedia.org/wiki/The_Name_of_the_Wind",
+        "authors": [
+          {
+            "name": "Patrick",
+            "surnames": "Rothfuss",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "The Wise Man's Fear",
+        "type": "reading",
+        "URL": "https://en.wikipedia.org/wiki/The_Wise_Man%27s_Fear",
+        "authors": [
+          {
+            "name": "Patrick",
+            "surnames": "Rothfuss",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Wizard's First Rule",
+        "type": "reading",
+        "URL": "https://en.wikipedia.org/wiki/Wizard%27s_First_Rule",
+        "authors": [
+          {
+            "name": "Terry",
+            "surnames": "Goodkind",
+            "title": "Author"
+          }
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/eloinavarro/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/ReoDeveloper"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/1178445/eloi-navarro"
+      },
+      {
+        "type": "other",
+        "URL": "http://www.eloinavarro.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Bynder",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/17/c4a8bf61-772a-444e-80e5-1d8f3c711ecd_bynder.jpg",
+            "alt": "bynder.jpg"
+          },
+          "URL": "https://www.bynder.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Mobile Engineer",
+            "startDate": "2022-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bynder",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/17/c08acb75-2ca3-4f3b-a5f1-e7125bcec259_bynder.jpg",
+            "alt": "bynder.jpg"
+          },
+          "URL": "http://www.bynder.com"
+        },
+        "roles": [
+          {
+            "name": "Mobile Developer",
+            "startDate": "2019-01-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Maintain and develop new features for the android app of the company. Refactor old java codebase to kotlin."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Koin",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Retrofit",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ubisoft",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/c0d692e7-8a3f-4667-aa49-bfdbded2d159_5f0d0711-c693-45f7-9.qn5cacgpedi2oulron67",
+            "alt": "Ubisoft"
+          },
+          "URL": "https://www.ubisoft.com"
+        },
+        "roles": [
+          {
+            "name": "Mobile Platform Engineer",
+            "startDate": "2017-11-01",
+            "finishDate": "2018-12-31",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Unity3D",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Softonic",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/b23879ab-f67e-41ca-9a8b-68c8cd60bfbc_d38d5ecb-03e7-47c7-8.png",
+            "alt": "Softonic"
+          },
+          "URL": "http://www.softonic.com"
+        },
+        "roles": [
+          {
+            "name": "Android UX Developer",
+            "startDate": "2015-08-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "I join to be part of the mobile team, working in a multidisciplinary environment. Making use of agile and lean methodologies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "W3IS2 S.L."
+        },
+        "roles": [
+          {
+            "name": "Android UX Developer",
+            "startDate": "2010-12-01",
+            "finishDate": "2015-07-31",
+            "challenges": [
+              {
+                "description": "Main android developer, assuming more and more responsibility in projects and to undertake UX tasks such as wireframes or prototypes. Responsible for high level project definition, choosing specific technology. Working closely with the UI and UX designer. Self-demanding worker and always with the best quality as the only acceptable outcome."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Technodac S.C.P."
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2010-07-01",
+            "finishDate": "2011-12-31",
+            "challenges": [
+              {
+                "description": "I meet customers to try to find out what they really wanted and needed and translate it into a Joomla solution, developing _Joomla components_ (frontend and/or backend)\n\nI was able to _work_, _solve problems_ and/or _debug the code_ on my own or as a team member.\n\nI participated in regular meetings with the customers, to achieve solutions to whatever problem we find along the way or to get to the most optimal solution to satisfy their needs."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Joomla",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Top 20% at Stack Overflow answers",
+          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Android - Score: 228/300",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/df1f4136-d778-4840-962c-edb154a9290a_8cd5ad7d-5fba-474b-b.png",
+            "alt": "Title: Android - Score: 228/300"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2018-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Type safety: Unchecked cast from Object to List<MyObject>",
+          "URL": "https://stackoverflow.com/questions/14642985/type-safety-unchecked-cast-from-object-to-listmyobject/14645590#14645590"
+        },
+        "type": "post",
+        "publishingDate": "2013-02-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android SDK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Associate's degree in computer applications development",
+        "startDate": "2008-09-01",
+        "institution": {
+          "name": "IES SEP Vidal i Barraquer",
+          "URL": "https://www.vidalibarraquer.net/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/74f5b37b-04f6-453d-a08c-5cc1d8e7bb4c_be77c92d-58ff-41d9-9.jpeg",
+            "alt": "Vidal-i-Barraquer-logo"
+          }
+        },
+        "finishDate": "2010-06-01",
+        "linkedCompetences": [
+          {
+            "name": "ASP",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "B. S. Computer Science",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Universitat Rovira i Virgili",
+          "URL": "https://www.urv.cat/en/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/e242ab76-a909-415a-9d08-a89ca0ddf0a3_d5a3ec27-a1e8-4bb1-8.jpeg",
+            "alt": "URV-logo"
+          }
+        },
+        "finishDate": "2015-01-01",
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "JSP",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Online certification on Unity 3d development",
+        "startDate": "2014-09-01",
+        "institution": {
+          "name": "Online certification on Unity 3d development",
+          "URL": "https://www.gametopia.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d806011e-317b-4eec-bb88-e0ddaf0b800e_1cf0f292-91a0-4cf4-a.png",
+            "alt": "Gametopia-logo"
+          }
+        },
+        "finishDate": "2015-06-01",
+        "linkedCompetences": [
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "Unity3D",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Postgraduate diploma, Usability, interaction design and user experience",
+        "startDate": "2016-01-01",
+        "institution": {
+          "name": "Universitat Pompeu Fabra",
+          "URL": "https://www.upf.edu/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d7206a58-3598-4b69-8803-8b46bd03dbc7_cd692350-4f8d-420c-a.png",
+            "alt": "UPF-logo"
+          }
+        },
+        "finishDate": "2016-07-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Strategic vision",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/eloinavarro/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/1178445/eloi-navarro",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/ReoDeveloper",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "eloi.navarro@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Android",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Cordova",
+          "type": "technology"
+        },
+        {
+          "name": "Ionic",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "PhoneGap",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "Xamarin",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Engineering Management",
+        "Mobile Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Android",
+        "type": "technology"
+      },
+      {
+        "name": "Android Studio",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I seek a work environment that fosters collaboration and personal as well as professional growth. Recognizing the significance of work in our lives, I aspire to a setting where kindness, cooperation, and mutual support among colleagues are encouraged. While I understand that work is primarily a professional endeavor, I firmly believe in the possibility of cultivating genuine and constructive relationships in the workplace. My aim is to make a meaningful contribution to the team by leveraging my skills and experience, while also advancing professionally in an environment that values the well-being and respect of all team members.",
+    "bookmarks": [
+      {
+        "name": "The Hobbit",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/01/e1d12cb0-4e32-49f2-892b-2343bf0dc63c_hobbit.jpg"
+      },
+      {
+        "name": "The Name of the Wind",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/01/e51818c5-fc7c-443c-92b0-5205e2e21d2a_notw.jpg"
+      },
+      {
+        "name": "The Wise Man's Fear",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/01/4a709376-6d48-4430-808d-02f31783586b_wmf.jpg"
+      },
+      {
+        "name": "Wizard's First Rule",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/01/90fc65d7-2517-40e6-b1a1-0f6f50048ac8_wfr.jpg"
+      }
+    ]
+  }
+}
