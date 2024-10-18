@@ -579,9 +579,6 @@
           "URL": "https://github.com/ReoDeveloper",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "eloi.navarro@gmail.com"
       ]
     },
     "preferences": {
@@ -626,7 +623,12 @@
         "Mobile Developer"
       ]
     },
-    "status": "openToOffers"
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
