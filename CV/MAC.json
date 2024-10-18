@@ -588,10 +588,6 @@
           "type": "technology"
         },
         {
-          "name": "JetPack",
-          "type": "technology"
-        },
-        {
           "name": "Kotlin",
           "type": "technology"
         }
@@ -623,7 +619,6 @@
         }
       ],
       "preferredRoles": [
-        "Engineering Management",
         "Mobile Developer"
       ]
     },
